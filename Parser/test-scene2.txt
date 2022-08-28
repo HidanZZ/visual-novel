@@ -1,4 +1,4 @@
-background community_garden fade_in
+background industrial_building fade_in
 
 "Welcome to the next test scene!"
 
